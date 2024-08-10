@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vraj Vyas</h1>
 <h3 align="center">Versatile Developer | Innovating Across Software, Web, and Emerging Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajvyas11&label=Profile%20views&color=0e75b6&style=flat" alt="vrajvyas11" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vrajvyas11&label=Profile%20views&color=0e75b6&style=flat" alt="vrajvyas11" /> </p>
 
 
   <p align="center">
 - 🌱 I’m currently learning **Redis With Rate Limiting**
 </p>
-   <li align="center">
+   <p align="center">
 - 📫 How to reach me **vyasvraj92@gmail.com**
 </p>
     <p align="center">
