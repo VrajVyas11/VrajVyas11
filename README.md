@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajvyas11&label=Profile%20views&color=0e75b6&style=flat" alt="vrajvyas11" /> </p>
 
-
+<ul>
+  <li align="center">
 - 🌱 I’m currently learning **Redis With Rate Limiting**
-
+</li>
+   <li align="center">
 - 📫 How to reach me **vyasvraj92@gmail.com**
-
+</li>
+    <li align="center">
 - ⚡ Fun fact **Sometimes I overthink normal things and over-engineer solutions**
-
+      <li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vraj vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj vyas" height="30" width="40" /></a>
