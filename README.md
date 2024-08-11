@@ -5,7 +5,7 @@
 
 
   <p align="center">
-- 🌱 I’m currently learning **Redis With Rate Limiting**
+- 🌱 I’m currently learning <p text="bold">Redis With Rate Limiting</p>
 </p>
    <p align="center">
 - 📫 How to reach me **vyasvraj92@gmail.com**
