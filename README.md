@@ -5,13 +5,13 @@
 
 
   <p align="center">
-- 🌱 I’m currently learning <p text="bold">Redis With Rate Limiting</p>
+- 🌱 I’m currently learning <strong>Redis With Rate Limiting</strong>
 </p>
    <p align="center">
-- 📫 How to reach me **vyasvraj92@gmail.com**
+- 📫 How to reach me <strong>vyasvraj92@gmail.com</strong>
 </p>
     <p align="center">
-- ⚡ Fun fact **Sometimes I overthink normal things and over-engineer solutions**
+- ⚡ Fun fact <strong>Sometimes I overthink normal things and over-engineer solutions</strong>
       </p>
 
 <h3 align="left">Connect with me:</h3>
