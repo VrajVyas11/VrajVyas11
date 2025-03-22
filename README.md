@@ -5,7 +5,7 @@
 
 
   <p align="center">
-- 🌱 I’m currently learning <strong>Redis With Rate Limiting</strong>
+- 🌱 I’m currently learning <strong>OCR + TTS + Real-time Translation in a Time-constrained Environment</strong>
 </p>
    <p align="center">
 - 📫 How to reach me <strong>vyasvraj92@gmail.com</strong>
